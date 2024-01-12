@@ -31,7 +31,7 @@ Usage
 Feel free to leverage this project as a foundation for your restaurant or food-related website. Customize content, images, and styles to align with your establishment's branding.
 
 Live Demo
-Explore the live demo of Spice Haven here. (Replace # with your actual live demo link)
+Explore the live demo of Spice Haven here. (#https://bootstrapprojectbyshravanthakare.netlify.app/)
 
 Project Video
 
