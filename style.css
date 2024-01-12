@@ -215,7 +215,7 @@ p {
 .menu_wrapper {
   width: 100%;
   height: auto;
-  background-image: url("../images/food--banner.jpg");
+  background-image: url("./images/food-menu-banner.jpg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
