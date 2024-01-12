@@ -31,10 +31,10 @@ Usage
 Feel free to leverage this project as a foundation for your restaurant or food-related website. Customize content, images, and styles to align with your establishment's branding.
 
 Live Demo
-Explore the live demo of Spice Haven here. (#https://bootstrapprojectbyshravanthakare.netlify.app/)
+Explore the live demo of Spice Haven here. (https://bootstrapprojectbyshravanthakare.netlify.app/)
 
 Project Video
-
+https://github.com/ShravanThakare/Bootstrap-Project/assets/108409480/9b9f64ad-018a-4c64-a934-a452e28124e4
    
 
    
